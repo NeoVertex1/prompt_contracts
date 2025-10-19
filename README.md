@@ -1,2 +1,1 @@
-# prompt_contracts
-Prompt Contracts
+# Prompt Contracts
