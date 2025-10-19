@@ -8,7 +8,7 @@ A lightweight, model-agnostic framework that turns open-ended LLMs into **determ
 
 ---
 
-#### See the full prompt contract here
+#### See the full prompt contract here:
 
 [link to full contract V4](https://github.com/NeoVertex1/prompt_contracts/blob/main/universal_v4_contract.xml)
 
