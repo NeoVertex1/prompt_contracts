@@ -190,6 +190,33 @@ They don’t require a special parser; they’re reliable cues that reduce phase
 
 ---
 
+### Run the app
+
+1. Install deps
+
+```bash
+pip install gradio PyPDF2 google-genai
+# or: pip install gradio PyPDF2 google-generativeai
+```
+
+2. Put the files together
+
+* Ensure **app.py** and **universal_v4_contract.xml** are in the same folder.
+
+3. Launch
+
+```bash
+python app.py
+```
+
+Open the URL Gradio prints (e.g., [http://127.0.0.1:7860](http://127.0.0.1:7860)).
+
+4. Use it
+
+* In **Chat**: upload a PDF, paste your Gemini API key, click **Setup**, then ask questions.
+
+
+---
 ## FAQ
 
 **Q: Do the tags require special model support?**
