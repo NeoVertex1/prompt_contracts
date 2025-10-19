@@ -203,4 +203,4 @@ A: Validate and reject. The contract expects strict HOLODATA. Send a short repai
 
 ---
 
-If you want, I can tailor a **mini version** of this contract for your repo (tightened wording, reduced fields, and a test fixture that validates HOLODATA objects).
+
